@@ -12,3 +12,7 @@ Projeto desenvolvido para comparar fornecedores de insumos hospitalares utilizan
 - Fornecedor recomendado: D
 - Menor custo: R$ 46,00
 - Maior economia: R$ 0,90
+
+## Dashboard
+
+dashboard.png
