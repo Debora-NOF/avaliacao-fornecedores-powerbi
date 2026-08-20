@@ -15,4 +15,4 @@ Projeto desenvolvido para comparar fornecedores de insumos hospitalares utilizan
 
 ## Dashboard
 
-![Dashboard de Avaliação de Fornecedores](dashboard.png)
+![Dashboard de Avaliação de Fornecedores](dashboard-fornecedores.png)
